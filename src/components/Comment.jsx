@@ -40,7 +40,7 @@ export function Comment({ content, onDeleteComment }) {
         <footer>
           <button onClick={handleLikeComment}>
             <ThumbsUp />
-            Aplaudir <spam>{likeCount}</spam>
+            Aplaudir <span>{likeCount}</span>
           </button>
         </footer>
       </div>

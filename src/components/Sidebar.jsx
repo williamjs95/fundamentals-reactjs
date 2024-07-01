@@ -15,7 +15,7 @@ export function Sidebar() {
         <Avatar src='https://avatars.githubusercontent.com/u/129805046?v=4' />
 
         <strong>William Silva</strong>
-        <spam>Web Developer</spam>
+        <span>Web Developer</span>
       </div>
 
       <footer>
